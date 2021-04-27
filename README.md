@@ -12,7 +12,7 @@ Some of my recent projects are listed below:
 ### :speech_balloon: Get in touch
 
 - Twitter: [https://twitter.com/jamieshighfield](https://twitter.com/jamieshighfield)
-- LinkedIn: [https://linkedin.com/in/jamiehighfield/](https://www.linkedin.com/in/jamiehighfield/)
+- LinkedIn: [https://linkedin.com/in/jamiehighfield](https://www.linkedin.com/in/jamiehighfield)
 <!--
 **jamiehighfield/jamiehighfield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
