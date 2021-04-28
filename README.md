@@ -8,7 +8,7 @@ Some of my recent projects are listed below:
 
 - [SharpVNC](https://github.com/sharpvnc/SharpVnc.Core) (a .NET Standard implemenetation of a [Remote Framebuffer Protocol (RFB)](https://tools.ietf.org/html/rfc6143) client & server)
 - Windows Credential Provider (a .NET Framework implementation for use in Windows 7 and above) - [read more](https://docs.microsoft.com/en-us/windows/win32/secauthn/credential-providers-in-windows)
-- [Win32 GUI Calculator](https://github.com/jamiehighfield/Win32Calculator) - a simple Win32 GUI calculator written in C++.
+- [Win32 GUI Calculator](https://github.com/jamiehighfield/Calculator) - a simple Win32 GUI calculator written in C++.
 
 ### :speech_balloon: Get in touch
 
