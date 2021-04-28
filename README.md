@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Jamie Highfield
 
-I'm a computer scientist, with an emphasis on software & systems engineering. My tech stack includes a variety of different languages, such as JavaScript, ReactJS, C# and C++, but I've primarily focussed my attention on a number of .NET projects, such as [SharpVNC](https://github.com/sharpvnc/SharpVnc.Core) (a .NET Standard implemenetation of a [Remote Framebuffer Protocol (RFB)](https://tools.ietf.org/html/rfc6143) client & server) and a Windows Credential Provider (a .NET Framework implementation for use in Windows 7 and above). I have a passion for performance and optimisation, the Win32 API as well as building new projects from the ground up making use of new concepts and technologies.
+I'm a computer scientist, with an emphasis on software & systems engineering. My tech stack includes a variety of different languages, such as C#, C++, JavaScript & ReactJS, but I've primarily focussed my attention on a number of .NET projects, such as [SharpVNC](https://github.com/sharpvnc/SharpVnc.Core) (a .NET Standard implemenetation of a [Remote Framebuffer Protocol (RFB)](https://tools.ietf.org/html/rfc6143) client & server) and a Windows Credential Provider (a .NET Framework implementation for use in Windows 7 and above). I have a passion for performance and optimisation, the Win32 API as well as building new projects from the ground up making use of new concepts and technologies.
 
 ### :page_with_curl: Recent projects
 
