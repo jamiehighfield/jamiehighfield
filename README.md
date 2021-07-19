@@ -7,7 +7,7 @@ I'm a computer scientist, with an emphasis on software & systems engineering. My
 Some of my recent projects are listed below:
 
 - [SharpVNC](https://github.com/sharpvnc/SharpVnc.Core) (a .NET Standard implemenetation of a [Remote Framebuffer Protocol (RFB)](https://tools.ietf.org/html/rfc6143) client & server).
-- [Mirror Driver](https://docs.microsoft.com/en-us/windows-hardware/drivers/display/mirror-drivers) - Windows 2000 Display Driver Model (XDDM) mirror driver for the Graphics Device Interface (GDI) - written in C using WDK. In line with industry conventions, this is licensed proprietary.
+- [Mirror Driver](https://docs.microsoft.com/en-us/windows-hardware/drivers/display/mirror-drivers) - Windows 2000 Display Driver Model (XDDM) mirror driver for the Graphics Device Interface (GDI) - written in C using WDK. In line with industry conventions, this is licensed proprietary for binary and source distributions.
 - Windows Credential Provider (a .NET Framework implementation for use in Windows 7 and above) - [read more](https://docs.microsoft.com/en-us/windows/win32/secauthn/credential-providers-in-windows).
 - [Win32 GUI Calculator](https://github.com/jamiehighfield/Calculator) - a simple Win32 GUI calculator written in C++.
 
