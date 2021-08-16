@@ -10,6 +10,7 @@ Some of my recent projects are listed below:
 - [Mirror Driver](https://docs.microsoft.com/en-us/windows-hardware/drivers/display/mirror-drivers) - Windows 2000 Display Driver Model (XDDM) mirror driver for the Graphics Device Interface (GDI) - written in C using WDK. In line with industry conventions, this is licensed proprietary for binary and source distributions.
 - Windows Credential Provider (a .NET Framework implementation for use in Windows 7 and above) - [read more](https://docs.microsoft.com/en-us/windows/win32/secauthn/credential-providers-in-windows).
 - [Win32 GUI Calculator](https://github.com/jamiehighfield/Calculator) - a simple Win32 GUI calculator written in C++.
+- GDI Drawing - a .NET wrapper of the Graphics Device Interface (GDI) to enable high-performance, hardware accelerated drawing operations.
 
 ### :speech_balloon: Get in touch
 
