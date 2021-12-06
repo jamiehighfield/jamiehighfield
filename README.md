@@ -8,7 +8,7 @@ Some of my recent projects are listed below:
 
 - [SharpVNC](https://www.sharpvnc.com) - a .NET implemenetation of a [Remote Framebuffer Protocol (RFB)](https://tools.ietf.org/html/rfc6143) client & server. This will now be licensed proprietary for binary distributions only.
 - [Mirror Driver](https://docs.microsoft.com/en-us/windows-hardware/drivers/display/mirror-drivers) - Windows 2000 Display Driver Model (XDDM) mirror driver for the Graphics Device Interface (GDI) - written in C using WDK. In line with industry conventions, this is licensed proprietary for binary and source distributions.
-- DapperExtensions - a small library written in C# that provides automatic query generation and where expressions around the Dapper ORM.
+- [DapperExtensions](https://github.com/jamiehighfield/DapperExtensions) - a small library written in C# that provides automatic query generation and where expressions around the Dapper ORM.
 - [Windows Credential Provider](https://docs.microsoft.com/en-us/windows/win32/secauthn/credential-providers-in-windows) - a .NET Framework implementation for use in Windows 7 and above.
 - [Win32 GUI Calculator](https://github.com/jamiehighfield/Calculator) - a simple Win32 GUI calculator written in C++.
 - GDI Drawing - a .NET wrapper of the Graphics Device Interface (GDI) to enable high-performance, hardware accelerated drawing operations.
