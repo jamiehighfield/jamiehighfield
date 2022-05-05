@@ -1,12 +1,12 @@
 ### Hi there 👋, I'm Jamie Highfield
 
-I'm a computer scientist, with an emphasis on software & systems engineering, specialising in the Windows API using C, C++ & C#. I also use JavaSCript, VueJS & ReactJS among other langauges, but I've primarily focussed my attention on a number of .NET projects, such as [SharpVNC](https://github.com/sharpvnc/SharpVnc.Core) (a .NET Standard implemenetation of a [Remote Framebuffer Protocol (RFB)](https://tools.ietf.org/html/rfc6143) client & server) and a Windows Credential Provider (a .NET Framework implementation for use in Windows 7 and above). I have a passion for performance and optimisation, the Windows API as well as building new projects from the ground up making use of new concepts and technologies.
+I'm a computer scientist, with an emphasis on software & systems engineering, specialising in the Windows API using C, C++ & C#. I also use JavaScript, VueJS & ReactJS among other langauges, but I've primarily focused my attention on a number of .NET projects, such as [SharpVNC](https://github.com/sharpvnc/SharpVnc.Core) (a .NET client & server implementation of the [Remote Framebuffer Protocol (RFB)](https://tools.ietf.org/html/rfc6143)) and a Windows Credential Provider (a .NET Framework implementation for use in Windows 7 and above). I have a passion for performance and optimisation, the Windows API as well as building new projects from the ground up making use of new concepts and technologies.
 
 ### :page_with_curl: Recent projects
 
 Some of my recent projects are listed below:
 
-- [SharpVNC](https://www.sharpvnc.com) - a .NET implementation of a [Remote Framebuffer Protocol (RFB)](https://tools.ietf.org/html/rfc6143) client & server. This will now be licensed proprietary for binary distributions only.
+- [SharpVNC](https://www.sharpvnc.com) - a .NET client & server implementation of the [Remote Framebuffer Protocol (RFB)](https://tools.ietf.org/html/rfc6143). This will now be licensed proprietary for binary distributions only.
 - [Mirror Driver](https://docs.microsoft.com/en-us/windows-hardware/drivers/display/mirror-drivers) - Windows 2000 Display Driver Model (XDDM) mirror driver for the Graphics Device Interface (GDI) - written in C using WDK. In line with industry conventions, this is licensed proprietary for binary and source distributions.
 - [DapperExtensions](https://github.com/jamiehighfield/DapperExtensions) - a small library written in C# that provides automatic query generation and where expressions around the Dapper ORM.
 - [Windows Credential Provider](https://docs.microsoft.com/en-us/windows/win32/secauthn/credential-providers-in-windows) - a .NET Framework implementation for use in Windows 7 and above.
