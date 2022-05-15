@@ -10,8 +10,15 @@ Some of my recent projects are listed below:
 - [Mirror Driver](https://docs.microsoft.com/en-us/windows-hardware/drivers/display/mirror-drivers) - Windows 2000 Display Driver Model (XDDM) mirror driver for the Graphics Device Interface (GDI) - written in C using WDK. In line with industry conventions, this is licensed proprietary for binary and source distributions.
 - [DapperExtensions](https://github.com/jamiehighfield/DapperExtensions) - a small library written in C# that provides automatic query generation and where expressions around the Dapper ORM.
 - [Windows Credential Provider](https://docs.microsoft.com/en-us/windows/win32/secauthn/credential-providers-in-windows) - a .NET Framework implementation for use in Windows 7 and above.
+- Better Controls - a .NET 6 library that provides comprehensive wrappers of certain Windows API controls, where either the built-in wrappers are limited in functionality, or wrappers were never provided. These controls include Toolbar and Rebar, with full .NET 6 design-time support using the new client-server design-time bridge model. Available soon.
+
+### :page_with_curl: Other projects
+
+Some of my other projects that are typically not feature complete, or don't intend to be finished, are listed below:
+
 - [Win32 GUI Calculator](https://github.com/jamiehighfield/Calculator) - a simple Win32 GUI calculator written in C++.
 - GDI Drawing - a .NET wrapper of the Graphics Device Interface (GDI) to enable high-performance, hardware accelerated drawing operations.
+- .NET 6 Component Licensing - Replacement for .NET Framework's legacy component licensing infrastructure (which was not completely ported to .NET Core), which leverages the requirement that custom components must be distributed using NuGet.
 
 ### :school: University industry projects
 
