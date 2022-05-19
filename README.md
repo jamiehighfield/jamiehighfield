@@ -16,7 +16,7 @@ Some of my recent projects are listed below:
 Some of my other projects that are typically not feature complete, or don't intend to be finished, are listed below:
 
 - [DapperExtensions](https://github.com/jamiehighfield/DapperExtensions) - a small library written in C# that provides automatic query generation and where expressions around the Dapper ORM.
-- [Win32 GUI Calculator](https://github.com/jamiehighfield/Calculator) - a simple Win32 GUI calculator written in C++.
+- [Win32 GUI Calculator](https://github.com/jamiehighfield/Calculator) - intended to be a simple Win32 GUI calculator written in C++, but so far just various window creation routines.
 - GDI Drawing - a .NET wrapper of the Graphics Device Interface (GDI) to enable high-performance, hardware accelerated drawing operations.
 - .NET 6 Component Licensing - Replacement for .NET Framework's legacy component licensing infrastructure (which was not completely ported to .NET Core), which leverages the requirement that custom components must be distributed using NuGet.
 
