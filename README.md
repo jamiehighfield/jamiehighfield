@@ -9,7 +9,7 @@ Some of my recent projects are listed below:
 - [SharpVNC](https://www.sharpvnc.com) - a .NET client & server implementation of the [Remote Framebuffer Protocol (RFB)](https://tools.ietf.org/html/rfc6143). This will now be licensed proprietary for binary distributions only.
 - [Mirror Driver](https://docs.microsoft.com/en-us/windows-hardware/drivers/display/mirror-drivers) - Windows 2000 Display Driver Model (XDDM) mirror driver for the Graphics Device Interface (GDI) - written in C using WDK. In line with industry conventions, this is licensed proprietary for binary and source distributions.
 - [Windows Credential Provider](https://docs.microsoft.com/en-us/windows/win32/secauthn/credential-providers-in-windows) - a .NET Framework implementation for use in Windows 7 and above.
-- Better Controls - a .NET 6 library that provides comprehensive wrappers of certain Windows API controls, where either the built-in wrappers are limited in functionality, or wrappers were never provided. These controls include Toolbar and Rebar, with full .NET 6 design-time support using the new client-server design-time bridge model. Available soon.
+- [Better Controls](https://github.com/sharpvnc/BetterControls) - a .NET 6 library that provides comprehensive wrappers of certain Windows API controls, where either the built-in wrappers are limited in functionality, or wrappers were never provided. These controls include Toolbar and Rebar, with full .NET 6 design-time support using the new client-server design-time bridge model. Available soon.
 
 ### :page_with_curl: Other projects
 
