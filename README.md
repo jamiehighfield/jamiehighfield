@@ -24,7 +24,7 @@ Some of my other projects that are typically not feature complete, or don't inte
 
 During university, I worked on a number of industry projects that formed part of the assessment. Some of these are listed below:
 
-- [Ambulatory Care](https://github.com/jamiehighfield/ambulatorycare-nhs) - This was a University industry project in a team of 5 working for the NHS to create a mobile application to aid cancer patients administering chemotherapy treatment from their home. It allowed for remote monitoring by doctors and other interactions.
+- [Ambulatory Care](https://github.com/jamiehighfield/ambulatorycare-nhs) - Written in React Native and Java. This was a University industry project in a team of 5 working for the NHS to create a mobile application to aid cancer patients administering chemotherapy treatment from their home. It allowed for remote monitoring by doctors and other interactions.
 
 ### :speech_balloon: Get in touch
 
