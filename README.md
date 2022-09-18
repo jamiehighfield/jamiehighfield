@@ -16,6 +16,7 @@ Some of my recent projects are listed below:
 
 Some of my other projects that are typically not feature complete, or don't intend to be finished, are listed below:
 
+- [Meter Readings (Interview Task)](https://github.com/jamiehighfield/meterreadings) - an interview task to provide an API interface to accept electricity/gas meter readings and persist to database. This task assumed part of a wider, more complete project.
 - [DapperExtensions](https://github.com/jamiehighfield/DapperExtensions) - a small library written in C# that provides automatic query generation and where expressions around the Dapper ORM.
 - [Win32 GUI Calculator](https://github.com/jamiehighfield/Calculator) - intended to be a simple Win32 GUI calculator written in C++, but so far just various window creation routines.
 - GDI Drawing - a .NET wrapper of the Graphics Device Interface (GDI) to enable high-performance, hardware accelerated drawing operations.
