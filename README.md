@@ -7,6 +7,7 @@ I'm a computer scientist, with an emphasis on software & systems engineering, sp
 Some of my recent projects are listed below:
 
 - ReactJS Nested List/Tree Component - a nested list view / tree view like component for displaying nested or non-nested data.
+![TreeView](https://user-images.githubusercontent.com/9104853/191047291-a19c5f56-493b-4f9a-9b46-347b91668643.png)
 - [SharpVNC](https://www.sharpvnc.com) - a .NET client & server implementation of the [Remote Framebuffer Protocol (RFB)](https://tools.ietf.org/html/rfc6143). This will now be licensed proprietary for binary distributions only.
 - [Mirror Driver](https://docs.microsoft.com/en-us/windows-hardware/drivers/display/mirror-drivers) - Windows 2000 Display Driver Model (XDDM) mirror driver for the Graphics Device Interface (GDI) - written in C using WDK. In line with industry conventions, this is licensed proprietary for binary and source distributions.
 - [Windows Credential Provider](https://docs.microsoft.com/en-us/windows/win32/secauthn/credential-providers-in-windows) - a .NET Framework implementation for use in Windows 7 and above.
