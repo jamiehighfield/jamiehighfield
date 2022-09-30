@@ -6,7 +6,7 @@ I'm a computer scientist, with an emphasis on software & systems engineering, sp
 
 Some of my recent projects are listed below:
 
-- [ReactJS Nested List/Tree Component](https://github.com/jamiehighfield/react-tree-view) - a nested list view / tree view like component for displaying nested or non-nested data.
+- [ReactJS Nested List/Tree Component](https://github.com/jamiehighfield/react-tree-view) - a **ReactJS** & **TypeScript** nested list view / tree view like component for displaying nested or non-nested data.
 <!-- ![TreeView](https://user-images.githubusercontent.com/9104853/191047291-a19c5f56-493b-4f9a-9b46-347b91668643.png) -->
 ![TreeView2](https://user-images.githubusercontent.com/9104853/193065744-1d5b759b-3eab-41f6-a8bf-d1bb79a93d7e.png)
 - [SharpVNC](https://www.sharpvnc.com) - a .NET client & server implementation of the [Remote Framebuffer Protocol (RFB)](https://tools.ietf.org/html/rfc6143). This will now be licensed proprietary for binary distributions only.
