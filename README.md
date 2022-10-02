@@ -11,7 +11,7 @@ Some of my recent projects are listed below:
 [Live Demo](https://highfield.dev)
 
 <!-- ![TreeView](https://user-images.githubusercontent.com/9104853/191047291-a19c5f56-493b-4f9a-9b46-347b91668643.png) -->
-![TreeView2](https://user-images.githubusercontent.com/9104853/193065744-1d5b759b-3eab-41f6-a8bf-d1bb79a93d7e.png)
+![image](https://user-images.githubusercontent.com/9104853/193448706-46cb3bf5-cb25-49ab-a38c-53fd10dcdbca.png)
 - [SharpVNC](https://www.sharpvnc.com) - a .NET client & server implementation of the [Remote Framebuffer Protocol (RFB)](https://tools.ietf.org/html/rfc6143). This will now be licensed proprietary for binary distributions only.
 - [Mirror Driver](https://github.com/sharpvnc/SharpVNC.MirrorDriver) - Windows 2000 Display Driver Model (XDDM) mirror driver for the Graphics Device Interface (GDI) - written in C using WDK. In line with industry conventions, this is licensed proprietary for both binary and source distributions.
 - [Windows Credential Provider](https://github.com/jamiehighfield/windowscredentialprovider) - a .NET Framework implementation for use in Windows 7 and above.
