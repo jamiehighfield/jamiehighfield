@@ -11,8 +11,7 @@ Some of my recent projects are listed below:
 [Live Demo](https://highfield.dev) (alpha)
 
 <!-- ![TreeView](https://user-images.githubusercontent.com/9104853/191047291-a19c5f56-493b-4f9a-9b46-347b91668643.png) -->
-![image](https://user-images.githubusercontent.com/9104853/193448706-46cb3bf5-cb25-49ab-a38c-53fd10dcdbca.png)
-![TreeView3](https://user-images.githubusercontent.com/9104853/194780395-6ff307a7-b173-48f7-a439-06f3874796f3.png)
+![TreeView4](https://user-images.githubusercontent.com/9104853/194780478-a21fe195-f5c5-42ad-b1f1-be74c01c33c5.png)
 
 - [SharpVNC](https://github.com/sharpvnc/SharpVNC.Core) - a .NET client & server implementation of the [Remote Framebuffer Protocol (RFB)](https://tools.ietf.org/html/rfc6143). This will now be licensed proprietary for binary distributions only.
 - [Mirror Driver](https://github.com/sharpvnc/SharpVNC.MirrorDriver) - Windows 2000 Display Driver Model (XDDM) mirror driver for the Graphics Device Interface (GDI) - written in C using WDK. In line with industry conventions, this is licensed proprietary for both binary and source distributions.
