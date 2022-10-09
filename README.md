@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Jamie Highfield
 
-I'm a computer scientist, with an emphasis on software & systems engineering, specialising in the Windows API using C, C++ & C#. I also use **JavaScript**, **VueJS** & **ReactJS** among other langauges, but I've primarily focused my attention on a number of .NET projects, such as [SharpVNC](https://github.com/sharpvnc/SharpVnc.Core) (a .NET client & server implementation of the [Remote Framebuffer Protocol (RFB)](https://tools.ietf.org/html/rfc6143)) and a Windows Credential Provider (a .NET Framework implementation for use in Windows 7 and above). I have a passion for performance and optimisation, efficient scalability, the Windows API as well as building new projects from the ground up making use of new concepts and technologies.
+I'm a computer scientist, with an emphasis on software & systems engineering. I specialise in web-based technologies, including HTML, CSS (SCSS/SASS) & JavaScript (ReactJS & VueJS). I also have a long-term background in C, C++ & C# (including the Windows API). Troughout my career, I have built up experience in Agile working, User Interface (UI), User Experience (UX) and other software development practices. I have a passion for performance & optimisation, efficient scalability, attention to detail, as well as making use of new concepts and technologies. Some of my recent projects are listed below, including a ReactJS component I am currently developing.
 
 ### :page_with_curl: Recent projects
 
@@ -12,6 +12,8 @@ Some of my recent projects are listed below:
 
 <!-- ![TreeView](https://user-images.githubusercontent.com/9104853/191047291-a19c5f56-493b-4f9a-9b46-347b91668643.png) -->
 ![image](https://user-images.githubusercontent.com/9104853/193448706-46cb3bf5-cb25-49ab-a38c-53fd10dcdbca.png)
+![TreeView3](https://user-images.githubusercontent.com/9104853/194780395-6ff307a7-b173-48f7-a439-06f3874796f3.png)
+
 - [SharpVNC](https://github.com/sharpvnc/SharpVNC.Core) - a .NET client & server implementation of the [Remote Framebuffer Protocol (RFB)](https://tools.ietf.org/html/rfc6143). This will now be licensed proprietary for binary distributions only.
 - [Mirror Driver](https://github.com/sharpvnc/SharpVNC.MirrorDriver) - Windows 2000 Display Driver Model (XDDM) mirror driver for the Graphics Device Interface (GDI) - written in C using WDK. In line with industry conventions, this is licensed proprietary for both binary and source distributions.
 - [Windows Credential Provider](https://github.com/jamiehighfield/windowscredentialprovider) - a .NET Framework implementation for use in Windows 7 and above.
