@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Jamie Highfield
 
-I'm a computer scientist, with an emphasis on software & systems engineering. I specialise in web-based technologies, including HTML, CSS (SCSS/SASS) & JavaScript (ReactJS & VueJS). I also have a long-term background in C, C++ & C# (including the Windows API). Troughout my career, I have built up experience in Agile working, User Interface (UI), User Experience (UX) and other software development practices. I have a passion for performance & optimisation, efficient scalability, attention to detail, as well as making use of new concepts and technologies. Some of my recent projects are listed below, including a ReactJS component I am currently developing.
+I'm a computer scientist, with an emphasis on software & systems engineering. I specialise in web-based technologies, including **HTML**, **CSS** (**SCSS**/**SASS**) & **JavaScript** (**ReactJS** & **VueJS**). I also have a long-term background in C, C++ & C# (including the Windows API). Troughout my career, I have built up experience in Agile working, User Interface (UI), User Experience (UX) and other software development practices. I have a passion for performance & optimisation, efficient scalability, attention to detail, as well as making use of new concepts and technologies. Some of my recent projects are listed below, including a ReactJS component I am currently developing.
 
 ### :page_with_curl: Recent projects
 
