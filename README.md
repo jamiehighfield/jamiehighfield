@@ -14,7 +14,7 @@ Some of my recent projects are listed below:
 ![TreeView4](https://user-images.githubusercontent.com/9104853/194780478-a21fe195-f5c5-42ad-b1f1-be74c01c33c5.png)
 
 - [SharpVNC](https://github.com/sharpvnc/SharpVNC.Core) - a .NET client & server implementation of the [Remote Framebuffer Protocol (RFB)](https://tools.ietf.org/html/rfc6143). This will now be licensed proprietary for binary distributions only. _SharpVNC remains the exclusive intellectual property of SharpVNC Limited (reg. number 14907913)._
-- [Mirror Driver](https://github.com/sharpvnc/SharpVNC.MirrorDriver) - Windows 2000 Display Driver Model (XDDM) mirror driver for the Graphics Device Interface (GDI) - written in C using WDK. In line with industry conventions, this is licensed proprietary for both binary and source distributions.
+- [Mirror Driver](https://github.com/sharpvnc/SharpVNC.MirrorDriver) - Windows 2000 Display Driver Model (XDDM) mirror driver for the Graphics Device Interface (GDI) - written in C using WDK. In line with industry conventions, this is licensed proprietary for both binary and source distributions. _SharpVNC remains the exclusive intellectual property of SharpVNC Limited (reg. number 14907913)._
 - [Windows Credential Provider](https://github.com/jamiehighfield/windowscredentialprovider) - a .NET Framework implementation for use in Windows 7 and above.
 - [Better Controls](https://github.com/sharpvnc/BetterControls) - a .NET 6 library that provides comprehensive wrappers of certain Windows API controls, where either the built-in wrappers are limited in functionality, or wrappers were never provided. These controls include Toolbar and Rebar, with full .NET 6 design-time support using the new client-server design-time bridge model.
 
