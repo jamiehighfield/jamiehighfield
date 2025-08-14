@@ -10,8 +10,6 @@ Some of my recent projects are listed below:
 
 - [ReactJS Nested List/Tree Component](https://github.com/jamiehighfield/react-tree-view) - a **ReactJS** & **TypeScript** nested list view / tree view like component for displaying nested or non-nested data.
 
-[Live Demo](https://highfield.dev) (alpha)
-
 <!-- ![TreeView](https://user-images.githubusercontent.com/9104853/191047291-a19c5f56-493b-4f9a-9b46-347b91668643.png) -->
 ![TreeView4](https://user-images.githubusercontent.com/9104853/194780478-a21fe195-f5c5-42ad-b1f1-be74c01c33c5.png)
 
