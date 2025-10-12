@@ -1,6 +1,10 @@
 ### Hi there 👋, I'm Jamie Highfield
 
-I'm a computer scientist, with an emphasis on software & systems engineering. I specialise in and have a long-term background in **C**, **C++**, **C#** (including the **Windows API**), **ASP .NET Core**, **Java** (including **Spring** and **Spring Boot**), among others (including web-based technologies such as **ReactJS**). I have worked with several IAM specifications, including SAML, SCIM & WS-Federation/WS-Trust. Throughout my career, I have built up experience in Agile working, User Interface (UI) design, User Experience (UX) design and other software development practices. I have a passion for performance & optimisation, efficient scalability, attention to detail and accessibility, as well as making use of new concepts and technologies. Some of my recent projects are listed below, including a ReactJS tree view component I am currently developing.
+I'm a computer scientist with a strong focus on software and systems engineering, specialising in **C**, **C++**, and **C#** with deep experience in the **Windows API** and **Windows Kernel** development. My work spans both low-level systems programming and high-level application design, integrating performance, reliability, and maintainability.
+
+I also have extensive experience with Identity and Access Management (IAM) technologies and standards, including **SAML**, **SCIM**, and **WS-Federation**/**WS-Trust**, applying them to build secure and scalable authentication systems.
+
+Throughout my career, I’ve worked across the full software lifecycle, adopting Agile practices, UI/UX design, and modern DevOps principles. I’m passionate about performance optimisation, scalable architectures, security, and accessibility, and enjoy exploring new concepts and technologies.
 
 I am currently a software engineer at consumer finance company Wealthify, and Director at technology company SharpVNC Limited.
 
