@@ -8,6 +8,8 @@ I am currently a software engineer in the Aggregated Metadata Platform (AMP) at 
 
 Some of my recent projects are listed below:
 
+- Global Windows process monitoring driver - kernel driver to perform DLL injection for all new processes, working alongside Control Flow Guard (CFG), and monitoring of process creation, for purposes of anti-malware
+- Least Privilege Access prototype - Windows utility to intercept User Account Control (UAC) prompt for custom process elevation logic
 - Windows Filtering Platform (WFP) drivers - mouse & keyboard Windows Kernel filter drivers, used for input interception at a hardware level.
 - [SharpVNC](https://github.com/sharpvnc/SharpVNC.Core) - a .NET client & server implementation of the [Remote Framebuffer Protocol (RFB)](https://tools.ietf.org/html/rfc6143). This will now be licensed proprietary for binary distributions only. _SharpVNC remains the exclusive intellectual property of SharpVNC Limited (reg. number 14907913)._
 - [Mirror Driver](https://github.com/sharpvnc/SharpVNC.MirrorDriver) - Windows 2000 Display Driver Model (XDDM) mirror driver for the Graphics Device Interface (GDI) - written in C using WDK. In line with industry conventions, this is licensed proprietary for both binary and source distributions. _Mirror driver remains the exclusive intellectual property of SharpVNC Limited (reg. number 14907913)._
