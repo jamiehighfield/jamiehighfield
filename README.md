@@ -2,7 +2,7 @@
 
 I'm a computer scientist with a strong focus on software and systems engineering, specialising in **C**, **C++**, and **C#** with deep experience in the **Windows API** and **Windows Kernel** development. My work spans both low-level systems programming and high-level application design, integrating performance, reliability, and maintainability. I also have extensive experience with Identity and Access Management (IAM) technologies and standards, including **SAML**, **SCIM**, and **WS-Federation**/**WS-Trust**, applying them to build secure and scalable authentication systems.
 
-I am currently a software engineer in the Aggregated Metadata Platform (AMP) at BBC, as well as a Director at SharpVNC Limited.
+I am currently a software engineer in the Aggregated Metadata Platform (AMP) at the BBC, as well as a Director at SharpVNC Limited.
 
 ### :page_with_curl: Recent projects
 
